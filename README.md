@@ -87,7 +87,3 @@ https://github.com/yuimoi/tg_faka/assets/119736684/4b570311-5f96-4111-a3be-aa58c
 ### 清空库存(如有库存，则会以文件发送给管理员)
 `/clear_product_items`
 
-
-
-
-Tg: [@nulllllllll](https://t.me/nulllllllll)
